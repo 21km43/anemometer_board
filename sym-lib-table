@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-C3-DevBoard")(type "KiCad")(uri "${KIPRJMOD}/ESP32-C3-DevBoard.kicad_sym")(options "")(descr ""))
+  (lib (name "LBT-131")(type "KiCad")(uri "${KIPRJMOD}/LBT-131.kicad_sym")(options "")(descr ""))
+  (lib (name "QMC5883L")(type "KiCad")(uri "${KIPRJMOD}/QMC5883L.kicad_sym")(options "")(descr ""))
+)
